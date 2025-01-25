@@ -3,7 +3,7 @@
 Script dumps all MySQL (or MariaDB) databases to separate SQL files (compressed to .sql.gz) named with timestamp.
 It also removes old backups (older than specified amount of days).
 
-NOTE: It does split the data and the structure into separate files. Feel free to edit this.
+**NOTE:** It does split the data and the structure into separate files. Feel free to edit this.
 
 
 Script updated for MariaDB 10 on Synology DSM 7.2.2-72806 Update 2 
